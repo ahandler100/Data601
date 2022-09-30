@@ -1,0 +1,7 @@
+notepad ####.txt
+
+git add ####.txt
+
+git commit -a -m 'name'
+
+git push -f origin main
